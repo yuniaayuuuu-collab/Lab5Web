@@ -71,3 +71,7 @@ if (item.checked) total += Number(item.value);
 });
 document.getElementById("total").textContent = total.toLocaleString("id-ID");
 }
+
+
+
+
